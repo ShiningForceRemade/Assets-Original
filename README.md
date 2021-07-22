@@ -8,7 +8,8 @@
 All work by Ivan_Cal of [sfmods](https://sfmods.com/community/)
 
 ## SF2
-All rips from sprites-resource and their respective ripper.
+- All rips from sprites-resource and their respective ripper.
+- Sounds/SFX - provided by chaoswizard98 of shiningforcecentral
 
 ## SFCD
 All rips from sprites-resource and their respective ripper.
